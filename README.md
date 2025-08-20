@@ -8,7 +8,7 @@ Welcome to the future of non-innovation! Breadboard Simulator is a revolutionary
 Because we could. And because the world has enough useful things. It's time to embrace the art of pointlessness. This project was built for a hackathon where the only metric for success was making the judges laugh.
 
 ## Demo
-[Watch our highly anticipated (and entirely fictional) demo video here!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Watch our highly anticipated (and entirely fictional) demo video here!](https://drive.google.com/file/d/1ze0kckh88LcRlxj2RGwSl2MV4vi10zzT/view?usp=sharing)
 
 ## How to Achieve Uselessness
 1.  Clone this repository.
