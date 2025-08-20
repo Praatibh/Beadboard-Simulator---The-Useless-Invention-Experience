@@ -1,5 +1,3 @@
-# Beadboard-Simulator---The-Useless-Invention-Experience
-Build hilariously useless gadgets on a virtual breadboard! Drag &amp; drop silly components like potato batteries and invisible LEDs. Get sarcastic AI feedback, share meme-worthy creations, and compete for the highest uselessness score. 100% creativity, 0% practical—just pure fun!
 # Breadboard Simulator: DIY Useless Gadgets as a Service
 
 ![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdscW1uM3Y3dTE3ZXR0ZzB4c2Z2Y2w5ZDJza2w1dGk2bWRzY2k5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c2r3NCJ4wB552J5i51/giphy.gif)
